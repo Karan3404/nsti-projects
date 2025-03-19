@@ -22,4 +22,5 @@ echo "left shift : ", $a<<$b ,"<br>";
 echo "left shift : ", $a>>$b ,"<br>";
 
 
+
 ?>

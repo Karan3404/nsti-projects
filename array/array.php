@@ -37,9 +37,9 @@ echo json_encode($detail);
 echo "<pre>";
 //  echo implode(" ,",$detail);
  //to print full array
-     echo $detail[0][0]."<br>";
-     echo $detail[1][0][0]."<br>";
-     echo $detail[1][1][2]."<br>";
+ echo $detail[1][0][0]."<br>";
+ echo $detail[1][1][2]."<br>";
+ echo $detail[0][0]."<br>";
 
 
 

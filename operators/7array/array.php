@@ -2,6 +2,7 @@
 //it is used to compare arrays
 
 //union (combine two array and remove duplicates)
+//only key from the first array are retained when merging two array and if there is duplicate  key then it will be ignored.
 
 $a =  array(1,2,3);
 $b =  array(4,2,4,5);
