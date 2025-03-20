@@ -8,6 +8,9 @@
 <body>
 
 <?php
+
+//ini_set('display_error',0);  //dont show errors at all
+
 $array = [
     [1,"karan",21,"sarangarh"],
     [2,"vishal",25,"balod"],
